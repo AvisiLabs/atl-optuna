@@ -1,4 +1,4 @@
-# atl-optuna
+# Avisi Tech Lab Optuna
 Deze repository hoort bij de Avisi Tech Lab Optuna video en blog.  
 
 Installeer Jupyter Lab en optuna en optuna-dashboard:  
